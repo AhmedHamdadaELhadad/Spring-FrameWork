@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+F:\JAVA\Enviroment steup\eclipse\frist appSpring\.metadata\.plugins\org.eclipse.jdt.core
